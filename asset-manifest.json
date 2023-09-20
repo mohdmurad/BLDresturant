@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/BLDresturant/static/css/main.17655c3c.css",
-    "main.js": "/BLDresturant/static/js/main.d4d48253.js",
+    "main.js": "/BLDresturant/static/js/main.bc643aa2.js",
     "index.html": "/BLDresturant/index.html",
     "main.17655c3c.css.map": "/BLDresturant/static/css/main.17655c3c.css.map",
-    "main.d4d48253.js.map": "/BLDresturant/static/js/main.d4d48253.js.map"
+    "main.bc643aa2.js.map": "/BLDresturant/static/js/main.bc643aa2.js.map"
   },
   "entrypoints": [
     "static/css/main.17655c3c.css",
-    "static/js/main.d4d48253.js"
+    "static/js/main.bc643aa2.js"
   ]
 }
