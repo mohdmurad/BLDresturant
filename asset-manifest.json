@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BLDresturant/static/css/main.17655c3c.css",
+    "main.js": "/BLDresturant/static/js/main.d4d48253.js",
+    "index.html": "/BLDresturant/index.html",
+    "main.17655c3c.css.map": "/BLDresturant/static/css/main.17655c3c.css.map",
+    "main.d4d48253.js.map": "/BLDresturant/static/js/main.d4d48253.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17655c3c.css",
+    "static/js/main.d4d48253.js"
+  ]
+}
